@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-30 11:46+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/olam-author-fb-url.php:44
+msgctxt "FES Field title translation"
+msgid "Facebook Url"
+msgstr ""
+
+#: includes/olam-author-fb-url.php:130 includes/olam-author-gplus-url.php:130
+#: includes/olam-author-linkedin-url.php:130
+#: includes/olam-author-subtitle.php:130 includes/olam-author-title.php:130
+#: includes/olam-author-twitter-url.php:130
+#: includes/olam-author-youtube-url.php:130
+#: includes/olam-download-item-thumbnail.php:322
+#: includes/olam-download-item-thumbnail.php:325
+#: includes/olam-preview-url.php:130 includes/olam-subheading.php:130
+#: includes/olam-twitter-url.php:130
+msgid "Please fill out this field."
+msgstr ""
+
+#: includes/olam-author-gplus-url.php:44
+msgctxt "FES Field title translation"
+msgid "Google Plus Url"
+msgstr ""
+
+#: includes/olam-author-linkedin-url.php:44
+msgctxt "FES Field title translation"
+msgid "LinkedIn Url"
+msgstr ""
+
+#: includes/olam-author-subtitle.php:44
+msgctxt "FES Field title translation"
+msgid "Author Subtitle"
+msgstr ""
+
+#: includes/olam-author-title.php:44
+msgctxt "FES Field title translation"
+msgid "Author Title"
+msgstr ""
+
+#: includes/olam-author-twitter-url.php:44 includes/olam-twitter-url.php:44
+msgctxt "FES Field title translation"
+msgid "Twitter Url"
+msgstr ""
+
+#: includes/olam-author-youtube-url.php:44
+msgctxt "FES Field title translation"
+msgid "Youtube Url"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:47
+msgctxt "FES Field title translation"
+msgid "Download thumb"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:89
+#: includes/olam-download-item-thumbnail.php:181
+msgid "Download item thumb URL"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:92
+#: includes/olam-download-item-thumbnail.php:115
+#: includes/olam-download-item-thumbnail.php:184
+msgid "Download File"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:107
+#: includes/olam-download-item-thumbnail.php:199
+msgid "http://"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:110
+#: includes/olam-download-item-thumbnail.php:111
+#: includes/olam-download-item-thumbnail.php:202
+#: includes/olam-download-item-thumbnail.php:203
+msgid "Choose file"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:110
+msgid "Insert download item thumb URL"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:121
+#: includes/olam-download-item-thumbnail.php:208
+msgid "&times;"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:132
+#: includes/olam-download-item-thumbnail.php:219
+msgid "Add File"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:202
+msgid "Insert download item thumbnail URL"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:288
+msgid "Number of files which can be uploaded"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:299
+msgid "Max. files"
+msgstr ""
+
+#: includes/olam-download-item-thumbnail.php:317
+msgid "Please enter a valid URL"
+msgstr ""
+
+#: includes/olam-preview-url.php:44
+msgctxt "FES Field title translation"
+msgid "Preview Url"
+msgstr ""
+
+#: includes/olam-subheading.php:44
+msgctxt "FES Field title translation"
+msgid "Subheading"
+msgstr ""
